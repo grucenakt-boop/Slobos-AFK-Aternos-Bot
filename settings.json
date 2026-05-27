@@ -6,8 +6,8 @@
     "type": "offline"
   },
   "server": {
-    "ip": "Cia_Do_Mine.aternos.me",
-    "port": 46982,
+    "ip": "ciadomine.aternos.me",
+    "port": 50183,
     "version": "",
     "try-creative": false
   },
