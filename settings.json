@@ -6,7 +6,7 @@
     "type": "offline"
   },
   "server": {
-    "ip": "Cia_do_Mine.aternos.me",
+    "ip": "boarfish.aternos.host",
     "port": 15194,
     "version": "",
     "try-creative": false
